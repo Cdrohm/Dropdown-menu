@@ -1,8 +1,8 @@
 {
   "name": "plugin-dropdown-menu-select",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Dropdown menu",
-  "repository":"https://github.com/Cdrohm/Dropdown-menu.git",
+  "repository": "https://github.com/Cdrohm/Dropdown-menu.git",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@babel/cli": "^7.17.6",
+    "@babel/eslint-parser": "^7.19.1",
     "chokidar": "^3.4.3",
     "prop-types": "^15.8.1"
   },
